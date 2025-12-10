@@ -2,5 +2,7 @@
 
 ### 🛡️ My Cybersec path to perfection
 
-[![TryHackMe Badge](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2605736" style='border:none;'></iframe>
+[![TryHackMe Badge](<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/NetSlayer.png" alt="TryHackMe Badge" />
+</p>
 )](https://tryhackme.com/p/NetSlayer)
