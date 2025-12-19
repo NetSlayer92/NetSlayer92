@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/NetSlayer">
-    <img src="<img src="https://tryhackme-badges.s3.amazonaws.com/NetSlayer.png" alt="Your Image Badge"/>" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/NetSlayer.png" alt="TryHackMe Badge">
   </a>
 </p>
 
